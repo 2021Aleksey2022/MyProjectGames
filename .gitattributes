@@ -1,1 +1,10 @@
 *[[:space:]][[:space:]]Assets/ filter=lfs diff=lfs merge=lfs -text
+*.vsconfig filter=lfs diff=lfs merge=lfs -text
+*.Lesson3D.exe filter=lfs diff=lfs merge=lfs -text
+*.Lesson3D_Data/ filter=lfs diff=lfs merge=lfs -text
+*.MonoBleedingEdge/ filter=lfs diff=lfs merge=lfs -text
+*.Packages/ filter=lfs diff=lfs merge=lfs -text
+*.ProjectSettings/ filter=lfs diff=lfs merge=lfs -text
+*.UnityCrashHandler64.exe filter=lfs diff=lfs merge=lfs -text
+*.UnityPlayer.dll filter=lfs diff=lfs merge=lfs -text
+*.UserSettings/ filter=lfs diff=lfs merge=lfs -text
